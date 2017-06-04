@@ -15,7 +15,7 @@ body{
 	background-size: cover;
 	position: relative;
 	padding-top:20px;
-
+	overflow:hidden;
 	&:after{
 		content:"";
 		position: absolute;
